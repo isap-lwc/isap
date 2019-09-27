@@ -1,0 +1,2 @@
+# isap
+ISAP is a family of lightweight authenticated encryption algorithms designed with a focus on robustness against passive side-channel attacks and is currently competing in the NIST Lightweight Cryptography competition (2019). It is of particular interest for applications like firmeware updates where robustness against side-channel attacks is crucial and codesize and a small footprint in hardware matters, but performance is not so important. ISAP's original version was published at FSE 2017.
